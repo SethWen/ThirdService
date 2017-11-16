@@ -1,0 +1,27 @@
+{
+  "name": "thirdservice",
+  "version": "1.0.0",
+  "description": "third service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethWen/ThirdService.git"
+  },
+  "keywords": [
+    "third"
+  ],
+  "author": "shawn",
+  "license": "ISC",
+  "dependencies": {
+    "node-mysql": "^0.4.2",
+    "request": "^2.81.0",
+    "restify": "^5.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/SethWen/ThirdService/issues"
+  },
+  "homepage": "https://github.com/SethWen/ThirdService#readme"
+}
