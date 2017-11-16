@@ -16,6 +16,7 @@
   "author": "shawn",
   "license": "ISC",
   "dependencies": {
+    "mysql": "^2.15.0",
     "request": "^2.81.0",
     "restify": "^5.2.0"
   },
